@@ -1,3 +1,5 @@
+"use strict";
+
 var player;
 var needCanvasUpdate = true;
 var gameEnded = false;
