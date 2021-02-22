@@ -2,6 +2,8 @@
 
 yo it's earth i'm just uhh makin a readme
 
+to see dev updates either join my discord server (which you can get to through my [website](https://earthernsence.github.io/)) or go to my [dev diary](https://earthernsence.github.io/earthsdevdiary.html)
+
 ## a game about awful utensils
 
 take over the world with your excessive production of utensils! exciting stuff!
